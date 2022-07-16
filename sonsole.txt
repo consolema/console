@@ -1,0 +1,4 @@
+inicio{
+"host":"3CD50933E66CA857CD96A844ED34CB5EA1AA62B359",
+"porta":"433"
+}fim
